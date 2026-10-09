@@ -1,0 +1,20 @@
+Senior Python Engineer
+
+We are looking for a Senior Python Engineer to help build AI-powered internal tools for hiring and operations. The ideal candidate will have strong Python, SQL, AWS, Docker, and FastAPI experience, plus a proven ability to ship data-driven features and production-grade APIs.
+
+Required:
+- Python, SQL, FastAPI, AWS, Docker, Git
+- Experience designing and deploying backend services
+- Strong understanding of REST APIs and cloud-native systems
+- Comfortable with CI/CD and automated testing
+
+Preferred:
+- React, JavaScript, TypeScript, LLMs, RAG, or machine learning
+- Experience with PostgreSQL, Redis, or vector search systems
+- Background in product analytics or AI-assisted workflows
+
+Responsibilities:
+- Design and implement APIs and services for internal tools
+- Build data pipelines and analytics dashboards
+- Collaborate with product, design, and data teams on AI-assisted features
+- Improve code quality through testing, documentation, and observability

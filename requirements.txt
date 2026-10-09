@@ -1,0 +1,12 @@
+# Python 3.13.x compatible dependency ranges; use a lock file for deployments.
+streamlit>=1.41,<2
+requests>=2.32,<3
+PyMuPDF>=1.25,<2
+python-docx>=1.1.2,<2
+numpy>=1.26,<3
+chromadb>=1.0,<2
+sentence-transformers>=4.0,<6
+torch>=2.6
+pandas>=2.2,<4
+plotly>=6,<7
+reportlab>=4.2,<5

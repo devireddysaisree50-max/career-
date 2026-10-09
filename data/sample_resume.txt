@@ -1,0 +1,23 @@
+Ava Patel
+Email: ava.patel@email.com | Phone: +1 (415) 555-0142
+
+Summary
+Software engineer with 5+ years of experience building data-driven web applications and ML products.
+
+Skills: Python, SQL, JavaScript, React, FastAPI, Docker, AWS, Git, Machine Learning, RAG, LLMs
+
+Experience
+Senior Software Engineer | Northwind Labs | 2022-Present
+- Built Python-based services for customer analytics and recommendation workflows.
+- Improved retrieval quality by integrating RAG pipelines with vector search and LLM orchestration.
+- Deployed Dockerized applications to AWS and automated CI/CD using GitHub Actions.
+
+Project: AI Interview Copilot
+- Developed a Streamlit interface using Python, React, and FastAPI to help candidates practice interview questions.
+- Added evaluation logic for prompt quality and model comparisons across LLMs.
+
+Education
+B.S. Computer Science, University of California, Berkeley
+
+Certifications
+AWS Certified Cloud Practitioner
